@@ -1,8 +1,7 @@
 fun main() {
 
-    // When conventional
+    // When
     val nilai : String = "A"
-
     when (nilai) {
         "A" -> {
             println("Amazing")
