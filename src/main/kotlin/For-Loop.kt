@@ -13,7 +13,7 @@ fun main(){
     println("Total perulangan $total")
 
 
-    // For pada Range, bilangan ganjil
+    // For pada Range
     for (i in 1..100 step 2) {
         println(i)
     }
