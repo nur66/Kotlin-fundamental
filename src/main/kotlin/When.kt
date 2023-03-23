@@ -1,5 +1,6 @@
 fun main() {
 
+    // When conventional
     val nilai : String = "A"
 
     when (nilai) {
